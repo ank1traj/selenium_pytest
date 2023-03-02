@@ -1,0 +1,8 @@
+{
+	"test": {
+		"depart_from": "Bombay",
+        "going_to": "New York",
+	    "date": "23/03/2023",
+        "stop": "1 Stop"
+	}
+}
